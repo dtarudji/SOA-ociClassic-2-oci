@@ -6,8 +6,8 @@ Oracle WebLogic Server environment that Oracle SOA Cloud Service instance provid
 
 Creating an Instance in Oracle Cloud Infrastructure. The following resources in OCI required to be provisioned:
 
-A compartment for your resources
-A virtual cloud network (VCN) with at least one public subnet
-IAM policies to allow Oracle Platform Services to access the VCN
-An Object Storage bucket
-Credentials to use with Object Storage
+  A compartment for your resources
+  A virtual cloud network (VCN) with at least one public subnet
+  IAM policies to allow Oracle Platform Services to access the VCN
+  An Object Storage bucket
+  Credentials to use with Object Storage
