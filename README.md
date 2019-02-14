@@ -1,15 +1,49 @@
-# SOAcs Upgrade 
-OCIClassic-OCI
+<center>
+<img src="https://cloudaccelerate.github.io/TTC-CommonContent/images/ttc-logo.png" />
+</center> 
 
-SOA Migration
+#Step-by-step Instructions
 
-Preface
-Oracle WebLogic Server environment that Oracle SOA Cloud Service instance provides in either type of infrastructure is substantially the same. A few differences exist in the underlying infrastructure components and in the supported capabilities. Awareness of these differences will help you choose an appropriate region while creating the instance.
+# Workshop Overview
 
-Creating an Instance in Oracle Cloud Infrastructure. The following resources in OCI required to be provisioned:
+**To View in Interactive Labguide Format:**  
 
-  A compartment for your resources
-  A virtual cloud network (VCN) with at least one public subnet
-  IAM policies to allow Oracle Platform Services to access the VCN
-  An Object Storage bucket
-  Credentials to use with Object Storage
+[GitHub IO Pages](https://rebrand.ly/ttcsoacslab)
+
+# Deep Dive SOACS
+
+**Reference the following Lab Guides by opening their Documentation Files:**
+
+## Required pre-work
+
+**Documentation**: soacs000.md
+
+## Lab 100: SOACS Provisioning
+
+**Documenation**: soacs100.md
+
+### Objectives
+
+The objective of this lab is to expose you to:
+
+- **Provision Oracle SOA Cloud Service and all pre-requisites required for it**
+
+## Lab 200: Build and deploy a SOA composite to SOACS using Enterprise Manager
+
+**Documenation**: soacs200.md
+
+### Objectives
+
+The objective of this lab is to expose you to:
+
+- **Build 'ValidatePayment' composite and deploy it to SOACS using EM console**
+
+## Lab 300: Deployment of composites to SOACS from JDeveloper
+
+**Documenation**: soacs300.md
+
+### Objectives
+
+The objective of this lab is to expose you to the:
+
+- **Deployment of SOA composites to SOACS using JDeveloper design time**
