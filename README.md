@@ -1,4 +1,4 @@
-# SOA-ociClassic-2-oci
+# SOAcs Upgrade OCIClassic-OCI
 SOA Migration
 
 Preface
